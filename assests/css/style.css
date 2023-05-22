@@ -120,14 +120,14 @@ header .navbar ul li a:hover{
 /* navbar ends */
 
 /* hamburger icon starts*/
-#menu{
+#nav-menu{
   font-size: 3rem;
   cursor: pointer;
   color: rgb(24, 2, 63);
   display: none;
 }
 @media(max-width:768px){
-  #menu{
+  #nav-menu{
       display: block;
   }
   header .navbar{
