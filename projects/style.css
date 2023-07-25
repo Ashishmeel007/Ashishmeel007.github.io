@@ -174,7 +174,7 @@ header .navbar ul li a:hover{
   gap:1.5rem;
   margin: 2rem;
 }
-.work .box-container .box{
+.work .box-container .project-card{
   flex:1 1 30rem;
   border-radius: .5rem;
   box-shadow: 0 .7rem 1rem rgba(0,0,0,.3);
@@ -184,12 +184,12 @@ header .navbar ul li a:hover{
   background: #fff;
   border: none;
 }
-.work .box-container .box img{
+.work .box-container .project-card img{
   height: 100%;
   width:100%;
   object-fit: cover;
 }
-.work .box-container .box .content{
+.work .box-container .project-card .content{
   height: 100%;
   width:100%;
   position: absolute;
@@ -198,7 +198,7 @@ header .navbar ul li a:hover{
   display: flex;
   flex-direction: column;
 }
-.work .box-container .box .content .tag{
+.work .box-container .project-card .content .tag{
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -208,10 +208,10 @@ header .navbar ul li a:hover{
   padding-left: 1rem;
   background: #ffd900;
 }
-.work .box-container .box .content .tag h3{
+.work .box-container .project-card .content .tag h3{
   font-size: 2rem;
 }
-.work .box-container .box:hover .content{
+.work .box-container .project-card:hover .content{
   top: 25%;
 }
 .work .desc {

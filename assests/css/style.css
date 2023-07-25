@@ -478,7 +478,7 @@ header .navbar ul li a:hover{
   color: #fff;
   margin-top: .5rem;
 }
-.skills .container .col .bar{
+.skills .container .col .skills-card{
   margin-bottom: 15px;
   padding: 10px;
   border-radius: 1rem;
@@ -486,33 +486,33 @@ header .navbar ul li a:hover{
   background: rgba( 0, 0, 22, 0.9);
   transition: .2s;
 }
-.skills .container .col .bar:hover{
+.skills .container .col .skills-card:hover{
   transform: translateX(12px);
   box-shadow: 0 5px 8px rgba(0, 2, 68, 0.4);
 }
-.skills .container .col .bar .info{
+.skills .container .col .skills-card .info{
   display: flex;
   align-items: center;
   justify-content: space-between;
   margin-bottom: 5px;
 }
-.skills .container .col .bar .info i{
+.skills .container .col .skills-card .info i{
   font-size: 2rem;
 }
-.skills .container .col .bar .info span{
+.skills .container .col .skills-card .info span{
   font-size: 1.8rem;
   font-weight: 500;
   font-family: 'Poppins';
   margin-left: .5rem;
 }
-.skills .container .col .bar .line{
+.skills .container .col .skills-card .line{
   position: relative;
   width: 100%;
   height: 10px;
   background: rgb(212, 211, 211);
   border-radius: 6px;
 }
-.skills .container .col .bar .line:before{
+.skills .container .col .skills-card .line:before{
   content: '';
   position: absolute;
   height: 100%;
@@ -520,59 +520,59 @@ header .navbar ul li a:hover{
   left: 0;
   border-radius: 4px;
 }
-.skills .container .col .bar .html:before{
+.skills .container .col .skills-card .html:before{
   width: 90%;
   background: #e03d0b;
 }
-.skills .container .col .bar .css:before{
+.skills .container .col .skills-card .css:before{
   width: 92%;
   background: #2962ff;
 }
-.skills .container .col .bar .javascript:before{
+.skills .container .col .skills-card .javascript:before{
   width: 82%;
   background: #ffd900;
 }
-.skills .container .col .bar .jquery:before{
+.skills .container .col .skills-card .jquery:before{
   width: 73%;
   background: #3d10dd;
 }
-.skills .container .col .bar .php:before{
+.skills .container .col .skills-card .php:before{
   width: 84%;
   background: #8054c7;
 }
-.skills .container .col .bar .mysql:before{
+.skills .container .col .skills-card .mysql:before{
   width: 80%;
   background: #f38b03;
 }
-.skills .container .col .bar .reactjs:before{
+.skills .container .col .skills-card .reactjs:before{
   width: 55%;
   background: #2962ff;
 }
-.skills .container .col .bar .java:before{
+.skills .container .col .skills-card .java:before{
   width: 80%;
   background: #ce0505;
 }
-.skills .container .col .bar .python:before{
+.skills .container .col .skills-card.python:before{
   width: 90%;
   background: #f7d203;
 }
-.skills .container .col .bar .android:before{
+.skills .container .col .skills-card .android:before{
   width: 70%;
   background: #2fdf7e;
 }
-.skills .container .col .bar .nodejs:before{
+.skills .container .col .skills-card .nodejs:before{
   width: 70%;
   background: #298521;
 }
-.skills .container .col .bar .vcs:before{
+.skills .container .col .skills-card .vcs:before{
   width: 88%;
   background: #f14e32;
 }
-.skills .container .col .bar .cms:before{
+.skills .container .col .skills-card .cms:before{
   width: 85%;
   background: #1771e7;
 }
-.skills .container .col .bar .firebase:before{
+.skills .container .col .skills-card .firebase:before{
   width: 90%;
   background: #ffae00;
 }
@@ -730,7 +730,7 @@ header .navbar ul li a:hover{
   gap:1.5rem;
   margin: 2rem;
 }
-.work .box-container .box{
+.work .box-container .project-card{
   flex:1 1 30rem;
   border-radius: .5rem;
   box-shadow: 0 .5rem 1rem rgba(0,0,0,.1);
@@ -738,12 +738,12 @@ header .navbar ul li a:hover{
   overflow:hidden;
   height:30rem;
 }
-.work .box-container .box img{
+.work .box-container .project-card img{
   height: 100%;
   width:100%;
   object-fit: cover;
 }
-.work .box-container .box .content{
+.work .box-container .project-card .content{
   height: 100%;
   width:100%;
   position: absolute;
@@ -752,7 +752,7 @@ header .navbar ul li a:hover{
   display: flex;
   flex-direction: column;
 }
-.work .box-container .box .content .tag{
+.work .box-container .project-card .content .tag{
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -762,10 +762,10 @@ header .navbar ul li a:hover{
   padding-left: 1rem;
   background: #ffd900;
 }
-.work .box-container .box .content .tag h3{
+.work .box-container .project-card .content .tag h3{
   font-size: 2rem;
 }
-.work .box-container .box:hover .content{
+.work .box-container .project-card:hover .content{
   top: 25%;
 }
 .work .desc {
