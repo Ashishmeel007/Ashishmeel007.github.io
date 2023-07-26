@@ -35,7 +35,8 @@
           <li><a class="nav-link skills" href="#skills">Skills</a></li>
           <li><a class="nav-link education" href="#education">Education</a></li>
           <li><a class="nav-link projects" href="#projects">Projects</a></li>
-          <li><a class="nav-link resume" href="#resume">Resume</a></li>
+          <li><a id="resume-button-1"
+           class="nav-link resume"  href="https://github.com/Ashishmeel007/Resume/files/12171654/Ashish_Meel_Resume.pdf" download >Resume</a></li>
           <li><a class="nav-link contact" href="#contact">Contact</a></li>
       </ul>
   </nav>
@@ -103,11 +104,8 @@
             </div>
         </div>
         
-        <div class="resumebtn">
-            <a href="./assests/Ashish_Meel.pdf" class="btn"><span>Resume</span>
-                <i class="fas fa-chevron-right"></i>
-            </a>
-        </div>
+        <li class="resumebtn"><a id="resume-button-2"
+          class="nav-link resume"  href="https://github.com/Ashishmeel007/Resume/files/12171654/Ashish_Meel_Resume.pdf" download >Resume</a></li>
 
     </div>
     </div>
@@ -468,5 +466,17 @@
 
 <script src="./assests/js/script.js"></script>
 
+<script>
+  let resume1 = document.getElementById("resume-button-1")
+  resume1.addEventListener("click",()=>{
+    window.open("./assests/Ashish_Meel.pdf", "_blank")
+  })
+ 
+  let resume2 = document.getElementById("resume-button-2")
+  resume2.addEventListener("click",()=>{
+    window.open("./assests/Ashish_Meel.pdf", "_blank")
+  })
+
+</script>
 </body>
 </html>
