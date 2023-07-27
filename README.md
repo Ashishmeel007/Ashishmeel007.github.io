@@ -14,7 +14,7 @@ Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 
 ## 📌 Sneak Peek of Main Page 🙈 :
 ![mockup720](https://github.com/Ashishmeel007/Ashishmeel007.github.io/blob/main/assests/images/Ashishmeel-portfolio.png)
-![skillsmockup](https://github.com/SauravMukherjee44/Portfolio-Saurav-Mukherjee/blob/577c41033c42fcd3568e2ca266dc4511d87f630b/assests/images/Screenshot%20(215).png)
+![skillsmockup](https://github.com/Ashishmeel007/Ashishmeel007.github.io/blob/main/assests/images/Screenshot%20(600).png)
 
 
 <h2>📬 Contact</h2>
