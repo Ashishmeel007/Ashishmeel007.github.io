@@ -1,7 +1,7 @@
 ## Portfolio-Website
 Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 
-<a href="http://127.0.0.1:5501/Portfolio-Ashish-Meel/index.html" target="_blank">**Visit Now** 🚀</a>
+<a href="https://ashishmeel007.github.io/" target="_blank">**Visit Now** 🚀</a>
 
 
 ## 📌 Tech Stack
@@ -13,15 +13,15 @@ Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 #### Extras : Particle.js, Typed.js, Scroll Reveal, Tawkto, Font Awesome, JSON, etc.
 
 ## 📌 Sneak Peek of Main Page 🙈 :
-![mockup720](https://github.com/SauravMukherjee44/Portfolio-Saurav-Mukherjee/blob/94498338de779cd693065dfb01b8ca1daab1eeef/assests/images/Screenshot%20(214).png)
-![skillsmockup](https://github.com/SauravMukherjee44/Portfolio-Saurav-Mukherjee/blob/577c41033c42fcd3568e2ca266dc4511d87f630b/assests/images/Screenshot%20(215).png)
+![mockup720](https://github.com/Ashishmeel007/Ashishmeel007.github.io/blob/main/assests/images/Ashishmeel-portfolio.png)
+![skillsmockup](https://github.com/Ashishmeel007/Ashishmeel007.github.io/blob/main/assests/images/Screenshot%20(600).png)
 
 
 <h2>📬 Contact</h2>
 
 If you want to contact me, you can reach me through below handles.
 
-&nbsp;&nbsp;<a href="https://www.linkedin.com/in/sauravmukherjee44/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
+&nbsp;&nbsp;<a href="https://www.linkedin.com/in/ashish-m-73458024a/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
 
 © 2021 Saurav Mukherjee
 
