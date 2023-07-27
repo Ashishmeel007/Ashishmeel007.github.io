@@ -1,7 +1,7 @@
 ## Portfolio-Website
 Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 
-<a href="http://127.0.0.1:5501/Portfolio-Ashish-Meel/index.html" target="_blank">**Visit Now** 🚀</a>
+<a href="https://ashishmeel007.github.io/" target="_blank">**Visit Now** 🚀</a>
 
 
 ## 📌 Tech Stack
